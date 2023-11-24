@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on New Blog</title>
+    <link>https://example.org/authors/</link>
+    <description>Recent content in Authors on New Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Nov 2023 15:12:10 +0530</lastBuildDate>
+    <atom:link href="https://example.org/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>San.D</title>
+      <link>https://example.org/authors/san.d/</link>
+      <pubDate>Fri, 24 Nov 2023 15:12:10 +0530</pubDate>
+      <guid>https://example.org/authors/san.d/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>John Doe</title>
+      <link>https://example.org/authors/john-doe/</link>
+      <pubDate>Fri, 24 Nov 2023 15:11:50 +0530</pubDate>
+      <guid>https://example.org/authors/john-doe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jack Lee</title>
+      <link>https://example.org/authors/jack-lee/</link>
+      <pubDate>Fri, 24 Nov 2023 15:11:37 +0530</pubDate>
+      <guid>https://example.org/authors/jack-lee/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
